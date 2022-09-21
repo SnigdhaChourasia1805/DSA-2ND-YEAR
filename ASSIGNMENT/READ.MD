@@ -1,0 +1,9 @@
+ https://www.hackerrank.com/challenges/hello-world-c/problem?isFullScreen=true
+ https://www.hackerrank.com/challenges/playing-with-characters/problem?isFullScreen=true
+ https://www.hackerrank.com/challenges/sum-numbers-c/problem?isFullScreen=true
+ https://www.hackerrank.com/challenges/functions-in-c/problem?isFullScreen=true
+ https://www.hackerrank.com/challenges/for-loop-in-c/problem?isFullScreen=true
+ https://www.hackerrank.com/challenges/conditional-statements-in-c/problem?isFullScreen=true
+ https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/problem?isFullScreen=true
+ https://www.hackerrank.com/challenges/pointer-in-c/problem?isFullScreen=true
+ https://www.hackerrank.com/challenges/1d-arrays-in-c/problem?isFullScreen=true
